@@ -4,5 +4,10 @@
     "start_url": ".",
     "display": "fullscreen",
     "lang": "ja-JP",
-    "orientation": "landscape"
+    "orientation": "landscape",
+    "icons": [{
+        "src": "fruit-touch-icon.png",
+        "type": "image/png",
+        "sizes": "144x144"
+    }]
 }
